@@ -1,0 +1,4 @@
+1.0
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool.exe
+2022-1-25
+1、新增在线更新功能
