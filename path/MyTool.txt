@@ -1,4 +1,5 @@
-1.5
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_01-26_3.exe
+1.6
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_01-26_4.exe
 2022-1-26
-1、修改文件复制（新增任意文件，选中文件夹等方式）
+1、添加check的存储
+2、调整保存目标文件显示不全问题
