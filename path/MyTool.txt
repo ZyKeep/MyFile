@@ -1,4 +1,4 @@
 1.2
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool.exe
-2022-1-25
-1、更新在线升级页面
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_1-26.exe
+2022-1-26
+1、文件打包拷贝添加记录表
