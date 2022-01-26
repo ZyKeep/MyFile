@@ -1,4 +1,4 @@
-1.3
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_1-26.exe
+1.4
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_1-26_3.exe
 2022-1-26
-1、文件打包拷贝添加记录表
+1、修改文件复制（新增任意文件，选中文件夹等方式）
