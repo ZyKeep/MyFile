@@ -1,4 +1,4 @@
-1.7
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_01-27.exe
-01-27
-创建更新文件【自动升级模块使用】
+1.8
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_01-27_1.exe
+01-27_1
+1、修改界面
