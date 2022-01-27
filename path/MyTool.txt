@@ -1,5 +1,4 @@
-1.6
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_01-26_4.exe
-2022-1-26
-1、添加check的存储
-2、调整保存目标文件显示不全问题
+1.7
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_01-27.exe
+01-27
+创建更新文件【自动升级模块使用】
