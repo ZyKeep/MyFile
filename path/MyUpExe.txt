@@ -1,4 +1,4 @@
-1.0
+1.1
 https://raw.githubusercontent.com/ZyKeep/MyFile/main/MyUpExe/MyUpExe.exe
-2022-1-27
-1、新增更新插件自更新功能
+01-27
+1.添加日志文件显示
