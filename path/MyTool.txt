@@ -1,4 +1,4 @@
-1.8
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_01-27_1.exe
-01-27_1
-1、修改界面
+1.9
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_01-27_2.exe
+01-27_2
+1、优化文件单一复制，选择文件夹体验
