@@ -1,4 +1,4 @@
-2.1
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_01-27_4.exe
-01-27_4
-1、存储部分信息
+2.4
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_01-27_5.exe
+01-27_5
+1、修复路径存储失败问题
