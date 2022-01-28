@@ -1,4 +1,4 @@
-1.1
+1.2
 https://raw.githubusercontent.com/ZyKeep/MyFile/main/MyUpExe/MyUpExe.exe
-01-27
-1.添加日志文件显示
+01-28
+修复对最新日志的判断
