@@ -1,3 +1,4 @@
-2.6
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_01-28_1.exe
-01-28_1
+2.7
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_02-15.exe
+02-15
+移除选中排序
