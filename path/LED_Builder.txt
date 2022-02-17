@@ -1,5 +1,4 @@
-1.4
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder.exe
-2022-1-26
-1、添加在线升级功能（配置文件MyAction = 1生效）
-2、添加在线升级对应中文翻译
+1.6
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_02-17_1.exe
+02-17_1
+1、移除升级软件内嵌翻译
