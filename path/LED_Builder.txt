@@ -1,4 +1,5 @@
-1.6
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_02-17_1.exe
-02-17_1
-1、移除升级软件内嵌翻译
+1.7
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_02-17.exe
+02-17
+1、添加色域（未测试）
+2、开放主窗口和子窗口独立显示
