@@ -1,6 +1,6 @@
-1.9
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_02-21.exe
-02-21
+2.1
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_02-21_3.exe
+02-21_3
 色域
-1、新增COFN,测试
-2、色域图超出区域部分移除喵点线
+1、移除COFN设置按钮
+2、修改ins47，COFN的值，高位在前
