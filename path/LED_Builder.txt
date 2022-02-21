@@ -1,7 +1,6 @@
-1.8
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_02-21_1.exe
-02-21_1
+1.9
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_02-21.exe
+02-21
 色域
-1、RGB值错误调整
-2、按钮【无】-值修改为0,0,0
-3、添加白点色温滑动栏+50设定
+1、新增COFN,测试
+2、色域图超出区域部分移除喵点线
