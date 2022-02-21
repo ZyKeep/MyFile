@@ -1,5 +1,7 @@
-1.7
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_02-17.exe
-02-17
-1、添加色域（未测试）
-2、开放主窗口和子窗口独立显示
+1.8
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_02-21_1.exe
+02-21_1
+色域
+1、RGB值错误调整
+2、按钮【无】-值修改为0,0,0
+3、添加白点色温滑动栏+50设定
