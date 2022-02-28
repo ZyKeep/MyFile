@@ -1,5 +1,5 @@
-2.12
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_02-24.exe
-02-24
-色域
-修复:ins17 double转int负数时数值出错
+2.13
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_02-28.exe
+02-28
+Gamama
+1、添加颜色深度10bit
