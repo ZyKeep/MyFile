@@ -1,5 +1,5 @@
-2.14
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-02.exe
-03-02
-1、命令20新增的使能网口盲插
-2、命令22，by17 18值设为0（无调整）
+2.15
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-02_1.exe
+03-02_1
+修改色域-白点界面
+修改ins47
