@@ -1,5 +1,5 @@
-2.13
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_02-28.exe
-02-28
-Gamama
-1、添加颜色深度10bit
+2.14
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-02.exe
+03-02
+1、命令20新增的使能网口盲插
+2、命令22，by17 18值设为0（无调整）
