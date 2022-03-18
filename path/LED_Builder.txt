@@ -1,4 +1,4 @@
-2.19
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-15.exe
-03-15
-添加显示屏测试
+2.2
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-18.exe
+03-18
+添加显示屏测试-网格功能
