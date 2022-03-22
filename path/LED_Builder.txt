@@ -1,4 +1,4 @@
-2.21
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-18_1.exe
-03-18_1
-修复窗口关闭问题
+2.22
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-22.exe
+03-22
+新增测试-定位功能
