@@ -1,4 +1,4 @@
-2.23
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-22_1.exe
-03-22_1
-修复定位存储图片问题【将图片文件移动到单独配置文件中】
+2.25
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-24_1.exe
+03-24_1
+修改ins48判断
