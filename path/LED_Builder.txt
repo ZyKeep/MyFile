@@ -1,4 +1,4 @@
-2.25
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-24_1.exe
-03-24_1
-修改ins48判断
+2.27
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-25.exe
+03-25
+保存配置文件到发送卡：新增安全检查.在文件加载期间
