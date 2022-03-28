@@ -1,4 +1,4 @@
-2.27
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-25.exe
-03-25
-保存配置文件到发送卡：新增安全检查.在文件加载期间
+2.28
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-28.exe
+03-28
+重新编译,无修改
