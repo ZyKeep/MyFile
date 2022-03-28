@@ -1,4 +1,4 @@
-2.8
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_02-21.exe
-02-21
-版本从0.1增幅调为0.01
+2.81
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/LED_Builder_03-28.exe
+03-28
+重新编译,无修改
