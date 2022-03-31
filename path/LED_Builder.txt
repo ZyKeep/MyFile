@@ -1,4 +1,4 @@
-2.3
-https://gitee.com/at_sea/MyFile/raw/main/LEDBuildExe/LED_Builder.exe
+2.31
+https://gitee.com/at_sea/MyFile/raw/main/LEDBuildExe/LED_Builder_03-31.exe
 03-31
-00
+添加部分翻译
