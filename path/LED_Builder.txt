@@ -1,4 +1,4 @@
 2.31
-https://gitee.com/at_sea/MyFile/raw/main/LEDBuildExe/LED_Builder_03-31.exe
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-31.exe
 03-31
 添加部分翻译
