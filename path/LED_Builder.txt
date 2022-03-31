@@ -1,4 +1,9 @@
-2.28
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-28.exe
-03-28
-重新编译,无修改
+2.29
+https://gitee.com/at_sea/MyFile/raw/main/LEDBuildExe/LED_Builder.exe
+03-31
+修改led配置接收卡
+1）LED模组扩展页面
+2）移除Gamma
+
+Gamma配置页面
+1）增加gamma回读
