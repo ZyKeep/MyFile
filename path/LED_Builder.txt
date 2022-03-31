@@ -1,4 +1,5 @@
-2.31
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-31.exe
-03-31
-添加部分翻译
+2.32
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-31_1.exe
+03-31_1
+修改LED模组-发送卡
+部分名称
