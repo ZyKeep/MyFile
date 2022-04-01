@@ -1,5 +1,6 @@
-2.32
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_03-31_1.exe
-03-31_1
-修改LED模组-发送卡
-部分名称
+2.33
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-01.exe
+04-01
+xmdl配置文件添加中文
+0xbb-中文
+0xbc-英文
