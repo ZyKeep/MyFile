@@ -1,6 +1,9 @@
-2.33
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-01.exe
-04-01
-xmdl配置文件添加中文
-0xbb-中文
-0xbc-英文
+2.34
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-01_1.exe
+04-01_1
+0x31c-0x31f中添加总长度
+0x31d + 0x31e* 256 = allLen
+0x31c = 0x55
+0x31f = 0x22
+----------------------------
+只在读取时候判断
