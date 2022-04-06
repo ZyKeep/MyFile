@@ -1,5 +1,5 @@
-2.36
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-02_1.exe
-04-02_1
-箱体连接
-接收卡大小实时更新
+2.37
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-06.exe
+04-06
+色域
+Adobe值修改
