@@ -1,4 +1,4 @@
-2.38
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-06_1.exe
-04-06_1
-启动自动查询是否有新版本
+2.39
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-07.exe
+04-07
+色域新增设置确认
