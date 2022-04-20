@@ -1,4 +1,5 @@
-2.39
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-07.exe
-04-07
-色域新增设置确认
+2.4
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-20.exe
+04-20
+校正页面
+添加拽托移动窗口
