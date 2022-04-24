@@ -1,5 +1,5 @@
-2.4
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-20.exe
-04-20
-校正页面
-添加拽托移动窗口
+2.41
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-24.exe
+04-24
+测试图
+添加彩条
