@@ -1,5 +1,5 @@
-2.41
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-24.exe
-04-24
+2.42
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-26.exe
+04-26
 测试图
-添加彩条
+彩条-存储修复
