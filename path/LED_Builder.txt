@@ -1,7 +1,3 @@
-2.43
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_04-27.exe
-04-27
-逐点校正
-功能：下载到发送卡
-修复：下发失败问题
-问题：一次下发只能900ins，目前用两组兼容，max 1800 ins
+2.44
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/AutoCorrection_05-06.exe
+05-06
