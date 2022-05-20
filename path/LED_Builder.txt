@@ -1,5 +1,4 @@
-2.48
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_05-17_1.exe
-05-17_1
-校正
-添加对MES信息处理
+2.49
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-05-20.exe
+_22-05-20
+修复gamma:读取芯片信息
