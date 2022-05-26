@@ -1,4 +1,4 @@
-2.81
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/LED_Builder_03-28.exe
-03-28
-重新编译,无修改
+2.82
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/AutoCorrection_22-05-26.exe
+_22-05-26
+新增字符处理-前缀
