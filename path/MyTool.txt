@@ -1,4 +1,4 @@
-2.82
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/AutoCorrection_22-05-26.exe
-_22-05-26
-新增字符处理-前缀
+2.83
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_22-05-26_1.exe
+_22-05-26_1
+新增软件图标
