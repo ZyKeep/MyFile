@@ -1,4 +1,6 @@
-2.49
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-05-20.exe
-_22-05-20
-修复gamma:读取芯片信息
+2.51
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-05-27.exe
+_22-05-27
+新增：
+获取无法识别的内容将会弹出对话框
+通讯进行微调
