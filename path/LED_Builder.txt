@@ -1,6 +1,4 @@
-2.51
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-05-27.exe
-_22-05-27
-新增：
-获取无法识别的内容将会弹出对话框
-通讯进行微调
+2.52
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-02.exe
+_22-06-02
+修改gclk频率
