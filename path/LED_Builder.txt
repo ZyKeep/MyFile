@@ -1,4 +1,4 @@
-2.52
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-02.exe
-_22-06-02
-修改gclk频率
+2.57
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-07.exe
+_22-06-07
+gamma线条新增颜色
