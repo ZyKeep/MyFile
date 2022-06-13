@@ -1,4 +1,4 @@
-2.57
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-07.exe
-_22-06-07
-gamma线条新增颜色
+2.63
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-13.exe
+_22-06-13
+重新连接按钮修复
