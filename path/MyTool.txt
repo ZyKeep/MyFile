@@ -1,4 +1,4 @@
-2.84
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_22-06-14.exe
-_22-06-14
-文件复制-文件路径下拉框重复修复
+2.85
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/LED_Builder_22-06-14_1.exe
+_22-06-14_1
+只允许运行一个程序
