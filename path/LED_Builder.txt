@@ -1,4 +1,4 @@
-2.65
+2.66
 https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-14.exe
 _22-06-14
-修复未知越界
+新增部分默认参数
