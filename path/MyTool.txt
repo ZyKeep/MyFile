@@ -1,4 +1,4 @@
-2.83
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_22-05-26_1.exe
-_22-05-26_1
-新增软件图标
+2.84
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_22-06-14.exe
+_22-06-14
+文件复制-文件路径下拉框重复修复
