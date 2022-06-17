@@ -1,6 +1,4 @@
-2.68
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-17.exe
-_22-06-17
-修复xmdl存储问题
-新增软件运行唯一标志,运行俩个会弹出提示，并将第一个软件置顶显示，第二个软件不打开
-新增波特率自动选择，115200，256000
+2.71
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-17_3.exe
+_22-06-17_3
+gamma新增列A，显示修改了多少
