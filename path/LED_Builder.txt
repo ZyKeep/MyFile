@@ -1,4 +1,4 @@
-2.71
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-17_3.exe
-_22-06-17_3
-gamma新增列A，显示修改了多少
+2.72
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-20.exe
+_22-06-20
+修改测试图-渐变
