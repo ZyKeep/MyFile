@@ -1,4 +1,4 @@
-2.72
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-20.exe
-_22-06-20
-修改测试图-渐变
+2.73
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-20_1.exe
+_22-06-20_1
+更新gamma配置，右键增加减少处理
