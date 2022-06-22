@@ -1,4 +1,4 @@
-2.78
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-22.exe
-_22-06-22
-修复网口断开重连问题-type类型连接固定为0
+2.81
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-22_2.exe
+_22-06-22_2
+去掉29-A前5条延时
