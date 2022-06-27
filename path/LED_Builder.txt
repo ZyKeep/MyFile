@@ -1,4 +1,4 @@
-2.81
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-22_2.exe
-_22-06-22_2
-去掉29-A前5条延时
+2.85
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-27_2.exe
+_22-06-27_2
+更新ins29-D
