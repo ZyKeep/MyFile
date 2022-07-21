@@ -1,4 +1,4 @@
-2.86
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-06-28.exe
-_22-06-28
-修改ins29-A ,29-D
+2.89
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-07-21.exe
+_22-07-21
+矫正新增MEC标识,直接加载
