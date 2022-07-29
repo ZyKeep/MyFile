@@ -1,4 +1,5 @@
-2.89
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-07-21.exe
-_22-07-21
-矫正新增MEC标识,直接加载
+2.92
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-07-29_1.exe
+_22-07-29_1
+新增-M13-级联方式
+修改-校正-校正测试图开关
