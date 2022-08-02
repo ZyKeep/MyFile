@@ -1,4 +1,4 @@
-2.93
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-02.exe
-_22-08-02
-更新ins16,9，12
+2.94
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-02_1.exe
+_22-08-02_1
+更新ins16,9，12，13
