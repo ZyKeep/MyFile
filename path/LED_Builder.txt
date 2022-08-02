@@ -1,5 +1,4 @@
-2.92
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-07-29_1.exe
-_22-07-29_1
-新增-M13-级联方式
-修改-校正-校正测试图开关
+2.93
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-02.exe
+_22-08-02
+更新ins16,9，12
