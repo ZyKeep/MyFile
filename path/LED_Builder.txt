@@ -1,4 +1,4 @@
-2.94
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-02_1.exe
-_22-08-02_1
-更新ins16,9，12，13
+2.96
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-03.exe
+_22-08-03
+校正信息修改，新增宽高度
