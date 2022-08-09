@@ -1,4 +1,4 @@
-3
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-09_1.exe
-_22-08-09_1
-修改协议14,15。新增联级方向
+3.01
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-09_2.exe
+_22-08-09_2
+修改ins14,15
