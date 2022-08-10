@@ -1,4 +1,4 @@
-3.01
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-09_2.exe
-_22-08-09_2
-修改ins14,15
+3.03
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-10_1.exe
+_22-08-10_1
+更新ins14-模组列计算
