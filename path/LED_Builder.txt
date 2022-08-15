@@ -1,4 +1,7 @@
-3.03
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-10_1.exe
-_22-08-10_1
-更新ins14-模组列计算
+3.07
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-15.exe
+_22-08-15
+1、【更新】主窗口按钮由点击一次打开窗口之后：
+直到窗口关闭前不可选中，改为下次点击显示对应窗口到最顶层
+2、【追加】固件升级后自动获取版本信息
+
