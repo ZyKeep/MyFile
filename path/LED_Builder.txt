@@ -1,7 +1,5 @@
-3.07
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-15.exe
-_22-08-15
-1、【更新】主窗口按钮由点击一次打开窗口之后：
-直到窗口关闭前不可选中，改为下次点击显示对应窗口到最顶层
-2、【追加】固件升级后自动获取版本信息
-
+3.1
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-16.exe
+_22-08-16
+更新
+1、 LED 箱体配置（设置2）-rgb编号示意图
