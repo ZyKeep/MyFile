@@ -1,5 +1,5 @@
-3.1
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-16.exe
-_22-08-16
+3.11
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-17.exe
+_22-08-17
 更新
-1、 LED 箱体配置（设置2）-rgb编号示意图
+1.灯板抽行抽列ic及rgb显示
