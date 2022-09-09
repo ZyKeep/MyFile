@@ -1,5 +1,5 @@
-3.11
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-08-17.exe
-_22-08-17
-更新
-1.灯板抽行抽列ic及rgb显示
+3.2
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-09-09.exe
+_22-09-09
+修复Led-箱体连接错误
+修复发送卡预选中错误问题
