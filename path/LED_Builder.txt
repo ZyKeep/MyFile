@@ -1,4 +1,3 @@
-3.23
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-09-15_1.exe
-_22-09-15_1
-修改抽行抽列选中错误
+3.25
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-09-15_3.exe
+_22-09-15_3
