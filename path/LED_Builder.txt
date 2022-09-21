@@ -1,3 +1,4 @@
-3.3
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-09-20.exe
-_22-09-20
+3.31
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-09-21.exe
+_22-09-21
+移除MDL文件使用
