@@ -1,4 +1,4 @@
-3.31
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-09-21.exe
-_22-09-21
-移除MDL文件使用
+3.33
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-09-23_1.exe
+_22-09-23_1
+移除LED箱体设置RGB编号限制
