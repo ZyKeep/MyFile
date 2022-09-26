@@ -1,4 +1,4 @@
-2.85
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/LED_Builder_22-06-14_1.exe
-_22-06-14_1
-只允许运行一个程序
+2.86
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_22-09-26.exe
+_22-09-26
+新增复制
