@@ -1,4 +1,4 @@
-2.86
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_22-09-26.exe
-_22-09-26
-新增复制
+2.87
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/exe/MyTool_22-09-26_1.exe
+_22-09-26_1
+修复上版本错误
