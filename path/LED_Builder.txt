@@ -1,4 +1,6 @@
-3.33
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-09-23_1.exe
-_22-09-23_1
-移除LED箱体设置RGB编号限制
+3.34
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-11-11.exe
+_22-11-11
+取消ins21延时
+移除旧MyFileNames类对文件读取，新增文件类型类自行处理对应内容
+修复文件存储提示问题
