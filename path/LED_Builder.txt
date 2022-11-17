@@ -1,5 +1,4 @@
-3.41
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-11-17.exe
-_22-11-17
-rxcfg标签页名称不统一
-新增功能依据版本号进行升级
+3.42
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-11-17_1.exe
+_22-11-17_1
+更新白平衡配置文件存储
