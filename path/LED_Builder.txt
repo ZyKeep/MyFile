@@ -1,4 +1,6 @@
-3.47
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-11-18.exe
-_22-11-18
-修复接收卡模组设置1-设置1-B，88dd关键词
+3.54
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-12-01.exe
+_22-12-01
+箱体连接多发送卡时，对每个发送卡输出图像起点设置为0
+发送卡-输出图像，修改为单发送卡显示，网口设置为不同颜色
+发送卡-出入图像，新增快速拼接
