@@ -1,4 +1,4 @@
-3.6
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-12-14.exe
-_22-12-14
-修改配置文件下发顺序，同步，gammma，模组文件
+3.63
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-12-20.exe
+_22-12-20
+gamma优化
