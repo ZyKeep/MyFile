@@ -1,4 +1,5 @@
-3.63
-https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_22-12-20.exe
-_22-12-20
-gamma优化
+3.74
+https://raw.githubusercontent.com/ZyKeep/MyFile/main/LEDBuildExe/LED_Builder_23-01-04.exe
+_23-01-04
+调整配置文件中伽马下发时间
+修复从PC中加载配置文件置发送卡，缺少伽马数据问题
